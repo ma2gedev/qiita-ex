@@ -1,3 +1,3 @@
 # Qiita
 
-** TODO: Add description **
+Qiita API sample code.
