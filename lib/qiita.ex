@@ -1,0 +1,2 @@
+defmodule Qiita do
+end
